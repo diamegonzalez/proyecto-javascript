@@ -1,1 +1,1 @@
-console.log("Hola mundo");
+console.log("Hola este repositorio fue clonado y editado su archivo js");
